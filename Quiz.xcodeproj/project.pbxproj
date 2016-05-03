@@ -248,6 +248,7 @@
 				FA3215D21ACA8E8E000CB209 /* BNRItem.m in Sources */,
 				FA3215B31ACA8E74000CB209 /* ViewController.m in Sources */,
 				FA3215AA1ACA8E74000CB209 /* main.m in Sources */,
+				FA14916B1CD8C24900A7CD35 /* RitaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
