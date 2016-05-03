@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA14916B1CD8C24900A7CD35 /* RitaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14916A1CD8C24900A7CD35 /* RitaViewController.m */; };
 		650F1CF11CD8C26800137426 /* Roy.m in Sources */ = {isa = PBXBuildFile; fileRef = 650F1CEF1CD8C26800137426 /* Roy.m */; };
 		650F1CF21CD8C26800137426 /* Roy.xib in Resources */ = {isa = PBXBuildFile; fileRef = 650F1CF01CD8C26800137426 /* Roy.xib */; };
 		FA3215AA1ACA8E74000CB209 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3215A91ACA8E74000CB209 /* main.m */; };
@@ -32,6 +33,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA1491691CD8C24900A7CD35 /* RitaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RitaViewController.h; sourceTree = "<group>"; };
+		FA14916A1CD8C24900A7CD35 /* RitaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RitaViewController.m; sourceTree = "<group>"; };
 		650F1CEE1CD8C26800137426 /* Roy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Roy.h; sourceTree = "<group>"; };
 		650F1CEF1CD8C26800137426 /* Roy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Roy.m; sourceTree = "<group>"; };
 		650F1CF01CD8C26800137426 /* Roy.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Roy.xib; sourceTree = "<group>"; };
@@ -107,6 +110,8 @@
 				FA3215B91ACA8E74000CB209 /* LaunchScreen.xib */,
 				FA3215AE1ACA8E74000CB209 /* Quiz.xcdatamodeld */,
 				FA3215A71ACA8E74000CB209 /* Supporting Files */,
+				FA1491691CD8C24900A7CD35 /* RitaViewController.h */,
+				FA14916A1CD8C24900A7CD35 /* RitaViewController.m */,
 				650F1CEE1CD8C26800137426 /* Roy.h */,
 				650F1CEF1CD8C26800137426 /* Roy.m */,
 				650F1CF01CD8C26800137426 /* Roy.xib */,
