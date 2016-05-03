@@ -12,6 +12,7 @@
 		650F1CF61CD8C4AA00137426 /* Roy2.m in Sources */ = {isa = PBXBuildFile; fileRef = 650F1CF41CD8C4AA00137426 /* Roy2.m */; };
 		650F1CF71CD8C4AA00137426 /* Roy2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 650F1CF51CD8C4AA00137426 /* Roy2.xib */; };
 		FA14916B1CD8C24900A7CD35 /* RitaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14916A1CD8C24900A7CD35 /* RitaViewController.m */; };
+		FA14916E1CD8C49F00A7CD35 /* Rita2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA14916D1CD8C49F00A7CD35 /* Rita2ViewController.m */; };
 		FA3215AA1ACA8E74000CB209 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3215A91ACA8E74000CB209 /* main.m */; };
 		FA3215AD1ACA8E74000CB209 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3215AC1ACA8E74000CB209 /* AppDelegate.m */; };
 		FA3215B01ACA8E74000CB209 /* Quiz.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FA3215AE1ACA8E74000CB209 /* Quiz.xcdatamodeld */; };
@@ -43,6 +44,8 @@
 		650F1CF51CD8C4AA00137426 /* Roy2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Roy2.xib; sourceTree = "<group>"; };
 		FA1491691CD8C24900A7CD35 /* RitaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RitaViewController.h; sourceTree = "<group>"; };
 		FA14916A1CD8C24900A7CD35 /* RitaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RitaViewController.m; sourceTree = "<group>"; };
+		FA14916C1CD8C49F00A7CD35 /* Rita2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rita2ViewController.h; sourceTree = "<group>"; };
+		FA14916D1CD8C49F00A7CD35 /* Rita2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Rita2ViewController.m; sourceTree = "<group>"; };
 		FA3215A41ACA8E74000CB209 /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA3215A81ACA8E74000CB209 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA3215A91ACA8E74000CB209 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -132,6 +135,8 @@
 				650F1CF31CD8C4AA00137426 /* Roy2.h */,
 				650F1CF41CD8C4AA00137426 /* Roy2.m */,
 				650F1CF51CD8C4AA00137426 /* Roy2.xib */,
+				FA14916C1CD8C49F00A7CD35 /* Rita2ViewController.h */,
+				FA14916D1CD8C49F00A7CD35 /* Rita2ViewController.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -259,6 +264,7 @@
 				FA3215AD1ACA8E74000CB209 /* AppDelegate.m in Sources */,
 				FA3215B01ACA8E74000CB209 /* Quiz.xcdatamodeld in Sources */,
 				650F1CF61CD8C4AA00137426 /* Roy2.m in Sources */,
+				FA14916E1CD8C49F00A7CD35 /* Rita2ViewController.m in Sources */,
 				FA32160E1ACC29C5000CB209 /* BNRHypnosisView.m in Sources */,
 				FA3215D21ACA8E8E000CB209 /* BNRItem.m in Sources */,
 				FA3215B31ACA8E74000CB209 /* ViewController.m in Sources */,
