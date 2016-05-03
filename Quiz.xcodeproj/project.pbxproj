@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		650F1CF11CD8C26800137426 /* Roy.m in Sources */ = {isa = PBXBuildFile; fileRef = 650F1CEF1CD8C26800137426 /* Roy.m */; };
+		650F1CF21CD8C26800137426 /* Roy.xib in Resources */ = {isa = PBXBuildFile; fileRef = 650F1CF01CD8C26800137426 /* Roy.xib */; };
 		FA3215AA1ACA8E74000CB209 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3215A91ACA8E74000CB209 /* main.m */; };
 		FA3215AD1ACA8E74000CB209 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA3215AC1ACA8E74000CB209 /* AppDelegate.m */; };
 		FA3215B01ACA8E74000CB209 /* Quiz.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FA3215AE1ACA8E74000CB209 /* Quiz.xcdatamodeld */; };
@@ -30,6 +32,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		650F1CEE1CD8C26800137426 /* Roy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Roy.h; sourceTree = "<group>"; };
+		650F1CEF1CD8C26800137426 /* Roy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Roy.m; sourceTree = "<group>"; };
+		650F1CF01CD8C26800137426 /* Roy.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Roy.xib; sourceTree = "<group>"; };
 		FA3215A41ACA8E74000CB209 /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA3215A81ACA8E74000CB209 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA3215A91ACA8E74000CB209 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -102,6 +107,9 @@
 				FA3215B91ACA8E74000CB209 /* LaunchScreen.xib */,
 				FA3215AE1ACA8E74000CB209 /* Quiz.xcdatamodeld */,
 				FA3215A71ACA8E74000CB209 /* Supporting Files */,
+				650F1CEE1CD8C26800137426 /* Roy.h */,
+				650F1CEF1CD8C26800137426 /* Roy.m */,
+				650F1CF01CD8C26800137426 /* Roy.xib */,
 			);
 			path = Quiz;
 			sourceTree = "<group>";
@@ -214,6 +222,7 @@
 			files = (
 				FA3215B61ACA8E74000CB209 /* Main.storyboard in Resources */,
 				FA3215BB1ACA8E74000CB209 /* LaunchScreen.xib in Resources */,
+				650F1CF21CD8C26800137426 /* Roy.xib in Resources */,
 				FA3215B81ACA8E74000CB209 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -232,6 +241,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				650F1CF11CD8C26800137426 /* Roy.m in Sources */,
 				FA3215AD1ACA8E74000CB209 /* AppDelegate.m in Sources */,
 				FA3215B01ACA8E74000CB209 /* Quiz.xcdatamodeld in Sources */,
 				FA32160E1ACC29C5000CB209 /* BNRHypnosisView.m in Sources */,
