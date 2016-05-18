@@ -5,7 +5,7 @@
 //  Created by Azar, Rita on 3/31/15.
 //  Copyright (c) 2015 Azar, Rita. All rights reserved.
 //
-// Ritaaaa
+// Try Push and Pull
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
